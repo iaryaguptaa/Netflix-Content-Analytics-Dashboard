@@ -1,11 +1,11 @@
-# 🎬 Netflix Content Analytics Dashboard
+# Netflix Content Analytics Dashboard
 
 This repository contains my Jupyter Notebook submission for **Project 5: Netflix Content Analytics Dashboard**, as part of the Data Science Internship curriculum (Group 3 - Data Analysis & Visualization Domain).
 
-## 📌 Project Overview
+## Project Overview
 The objective of this project is to explore and analyze Netflix's content catalog (Movies and TV Shows) to uncover trends, distribution patterns, and business insights. The project follows a complete Data Science workflow, from data cleaning to building advanced visual dashboards.
 
-## 🚀 Key Features & Workflow
+## Key Features & Workflow
 
 ### 1. Data Cleaning Pipeline
 * Fetched real-world Netflix dataset directly via URL.
